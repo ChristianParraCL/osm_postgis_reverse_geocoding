@@ -1,6 +1,6 @@
 # Reverse Geocoding with Postgis + OSM Data
 
-By request of Diego Guiraldes (diego.guiraldes@beetrack.com) i did a little research about how to do a very simple reverse geocoding of a pair of `latitude`/`longitude` with the data distributed by [Open Street Maps](https://www.openstreetmap.org/).
+By request of Diego Guiraldes i did a little research about how to do a very simple reverse geocoding of a pair of `latitude`/`longitude` with the data distributed by [Open Street Maps](https://www.openstreetmap.org/).
 
 ## Get the OSM Data
 
